@@ -1,4 +1,4 @@
-### Entendendo Algoritmos
+## Entendendo Algoritmos
 
 Este repositório é direcionado para abordar os exemplos do livro ‘**Entendendo Algoritmos**’ escrito pelo engenheiro de software [**Aditya Bhargava**](https://www.adit.io/).
 
